@@ -17,7 +17,7 @@ body {
   display: flex;
   justify-content: center;
   gap: 32px;
-  list-style: circle; 
+  list-style: circle;
 }
 
 .header__links-list-item_no-bullit {
