@@ -35,7 +35,7 @@ box-sizing: border-box;
 }
 
 .header__logo-image {
-height: 105px; 
+height: 105px;
 }
   
 .address {
@@ -60,7 +60,7 @@ height: 105px;
 
 .cover {
   height: 757px;
-  background-image: url("/images/cover.jpg");
+  background-image: url("../images/cover.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
