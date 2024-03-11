@@ -1,6 +1,8 @@
 a {
   display: block;
-  
+  text-decoration: underline;
+  text-decoration-skip-ink: none;
+  text-underline-position: under;
 }
 
 .header {
